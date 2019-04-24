@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VKSearch</string>
+    <string name="enter_id">Введите id</string>
+    <string name="button_search">search !</string>
+    <string name="result">this is result</string>
+    <string name="error">ERROR!!!</string>
+</resources>
