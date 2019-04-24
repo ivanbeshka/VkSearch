@@ -1,2 +1,2 @@
-System.out.println("Привет!");
-Check out
+System.out.println("Привет!;");
+Check out;
